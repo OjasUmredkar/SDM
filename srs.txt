@@ -1,0 +1,115 @@
+Q2.
+
+1.Introduction
+Ticket Booking system is ticket booking system that provides a single
+platform to ticket booking. Unless individuals step into the travel agent business to purchase
+tickets and also to check the timing as int the previous point.
+
+1.1 Purpose
+The launch of online ticket booking system addresses the issue. This application would provide clients with 
+an option to book tickets online and to search online for confirmation. 
+Customers can book airline tickets, buy ticket,train ticket.
+
+1.2 Scope
+The scope of this application will be within the borders of republic of India. Customer with internet access 
+can view,book and check status of the ticket from any placein India.
+
+
+
+2. Users
+Users of this application will be 
+i.customer
+ii. Admin
+iii. Railway employees 
+iv. Airline employees
+
+
+
+
+
+3. Functional requirements
+
+3.1.View all the services: When customer will access the application customer must be able to view all the services 
+provides by the application. Customer won't require any registration to view services
+  
+3.2 Registration: Before booking ticket customermust register himself/herself to on the application. 
+Customer must have to provide user name and password to his account before successfull registartion
+
+3.3 Login: Our customer must  provide username and password while logging in. 
+After login he or she must be able to book tickets.  
+
+3.4 Search: Customer must be able to search train or flight details  by the name of destination, and date.
+Customer will provide destination name and date in application and he will be able to view all details of flight or train.
+
+3.5 Select: After searching for way of transport and the date, he must be able to select the way of transport and the date of journey
+then customer will be asked to login if he or she has not logged in before. Then he will be able to book ticket.
+
+3.6 Payment:  After selecting the ticket the customer will be redirected to the payment gateway and he will pay the price 
+amount of ticket.
+
+3.7 Receipt Generation: After making payment application system will generate the reciept of payment.  
+
+3.8 Ticket Generation: After payment ticket will be generated with the name of customer and the 
+pdf of ticket will be provided to customer. 
+
+3.9 Filght/Train status: Customer must be able to check the status of way of transport.
+
+3.10 Cancel ticket: Customer must be able to cancel the ticket and recieve refund with some charges.
+
+
+
+
+
+
+
+4. Non-functional Requirements
+4.1. Capacity: Application must be able to handle the request of the logged acount smoothly and flawleassly.
+
+4.2. Dynamic requirements: Application must able to handle the load during festival or holiday time. 
+Application  will provide the smooth service to customer in the high load situation also
+
+ 
+4.4. Reliability: Application must be reliable it must operable and will provide the good service 
+in any condition. 
+
+4.5. Availability: Application must be able to srve 24x7.
+
+4.6. Security: Application must be secured from malware and demon code injections.
+ 
+4.7. Maintainability: Application must be able to prvide UI to the admin and transport employee to maintain the website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+Business entities:
+
+1.User
+2.Customer
+3.Flight
+4.Train
+5.Destination
+
+
+Business operations
+
+1.Login
+2.Logout
+3.Search
+4.Payment
+5.Generate Receipt
+6.View Train
+7. View Flight
+8. Cancel Flight journey
+9.Status of flight
+10.Cancel train journey
+11.Cancel train
